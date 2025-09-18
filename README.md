@@ -3,6 +3,10 @@
 ## Project Context
 This script was developed while I was working at **ORBITECH** to automate the monitoring of IT-related public tenders.  
 
+## Photos
+<img width="1524" height="829" alt="image" src="https://github.com/user-attachments/assets/db18bd88-3789-4e4f-98a9-3108d16a1bd7" />
+<img width="993" height="430" alt="image" src="https://github.com/user-attachments/assets/659c85e6-be3b-45c1-90fa-45d967bc79ca" />
+
 ## **Overview**
 
 The **eZamowienia Scraper & Notifier** is an automated Python script designed to:
