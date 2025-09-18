@@ -1,5 +1,8 @@
 # eZamowienia Scraper & Notifier
 
+## Project Context
+This script was developed while I was working at **ORBITECH** to automate the monitoring of IT-related public tenders.  
+
 ## **Overview**
 
 The **eZamowienia Scraper & Notifier** is an automated Python script designed to:
